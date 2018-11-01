@@ -2,13 +2,13 @@
 
 ## Introduction 
   
-   Being Developer our first priority of starting implemention of any product is POC(proof of concept). Great POC requires great benchmark but benchmarking with different tools sometimes becomes messy. We are trying to make an utility which can be used flexibly either by UI or command line. 
+   Being Developer our first priority of starting implemention of any product is POC(proof of concept). Great POC requires great benchmark but benchmarking with different tools sometime becomes messy. We are trying to make an utility which can be used flexibly either by UI or command line. 
  
   This Project will help users to benchmark email sending speed no matter whether it is smtp or api. Since this has to be made generic everyone can use this without any efforts. 
   
 ### What should be my contribution  ?
 
-  * You need to contribute to this project by building Scale-tester mentioned with requirement below using any coding language.
+  * contribution will be building Scale-tester mentioned with requirement below using any coding language.
     
     * Smtp scale tester ([reference](#utilities))
     
