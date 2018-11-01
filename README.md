@@ -2,9 +2,8 @@
 
 ## Introduction 
   
-   Pepipost is well-known for his fastest ai-powered Email delivery engine with the statistics :chart_with_upwards_trend: of delivering emails to inbox :mailbox_with_mail: within 5 seconds. our customers sends about 7 bn+ emails every month with higher rate of inbox delivery with respective to time. 
-  
-   Moreover the same can be tested by sending emails from different medium,SDK and open APIs. But this will require multiple effort  inorder to execute the same. So, Pepipost being on mission for helping our developer friends we are making an open source Email-scale-tester :email::zap: 
+   Being Developer our first priority of starting implemention of any product is POC(proof of concept). Great POC requires great benchmark but benchmarking with different tools sometimes becomes messy. We are trying to make an utility which can be used flexibly either by UI or command line. 
+ 
   
 ### What should be my contribution  ?
 
