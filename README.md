@@ -4,6 +4,7 @@
   
    Being Developer our first priority of starting implemention of any product is POC(proof of concept). Great POC requires great benchmark but benchmarking with different tools sometimes becomes messy. We are trying to make an utility which can be used flexibly either by UI or command line. 
  
+  This Project will help users to benchmark email sending speed no matter whether it is smtp or api. Since this has to be made generic everyone can use this without any efforts. 
   
 ### What should be my contribution  ?
 
