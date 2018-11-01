@@ -1,4 +1,4 @@
-# Pepipost as Email-scaletester 🏋 
+# Pepipost as Email-scale-tester 🏋 
 
 ## Introduction 
   
